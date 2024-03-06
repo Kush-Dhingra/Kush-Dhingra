@@ -1,0 +1,6 @@
+- 👋 Hi, I’m KUSH DHINGRA
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Game Jams
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: You are reading this in your mind.
