@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Game Jams
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: You are reading this in your mind.
+- ⚡ Fun fact: Only 0.63% people of the population of the world are programmers
