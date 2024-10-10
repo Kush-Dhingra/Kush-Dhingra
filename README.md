@@ -24,7 +24,7 @@
 ## ⚙️ Backend
 <div style="display: flex; align-items: center;">
     <img src="https://w7.pngwing.com/pngs/164/57/png-transparent-flask-logos-brands-icon.png" alt="Flask" width="30" height="30" style="margin-right: 5px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="30" height="30" style="margin-right: 5px;" />
+    <img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="Express" width="30" height="30" style="margin-right: 5px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30" />
 </div>
 
