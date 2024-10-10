@@ -1,3 +1,5 @@
+<div style="background-color: #f0f0f0; padding: 20px;">
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=Kush-Dhingra&theme=dark)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kush-Dhingra&theme=dark)
@@ -36,4 +38,6 @@
 <div style="display: flex; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30" style="margin-right: 5px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="30" height="30" />
+</div>
+
 </div>
