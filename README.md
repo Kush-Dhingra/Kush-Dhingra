@@ -9,4 +9,4 @@ Feel free to explore my repositories and reach out to me. Let's connect, collabo
 
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kush-Dhingra)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kush-Dhingra&theme=dark)
