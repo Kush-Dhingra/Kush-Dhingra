@@ -31,7 +31,7 @@
 ## 🛠️ Version Control
 <div style="display: flex; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30" style="margin-right: 5px;" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30" />
+    <img src="https://www.svgrepo.com/show/439171/github.svg" alt="GitHub" width="30" height="30" />
 </div>
 
 ## 🖥️ Code Editors
