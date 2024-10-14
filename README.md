@@ -5,4 +5,4 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kush-Dhingra&theme=dark)
 
 # Skills
-![Skills]([https://skillicons.dev/icons?i=javascript,css,html,express,react,nodejs,flask,python,figma,bootstrap,git,github,vscode,pycharm](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,git,github,postgresql,sqlite,figma,vscode,vite,bootstrap,python,flask,npm,firebase,godot))
+![Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,git,github,postgresql,sqlite,figma,vscode,vite,bootstrap,python,flask,npm,firebase,godot)
